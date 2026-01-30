@@ -9,4 +9,4 @@ Check the [recent releases](https://github.com/Dawgra/Facial-Unification/release
 # Guide?
 * **Main.luau** - The main part of the Facial Unification module. You can name it as you like.
 * **Content** - Modules that should be located inside of Main.luau instance.
-    * You can remove "Attribution" when you credit me somewhere in-game.
+    * You can remove "Attribution" when you credit me somewhere in-game, in the description or DevForum Bulletin Board post.
