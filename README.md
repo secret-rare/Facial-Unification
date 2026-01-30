@@ -6,7 +6,7 @@
 # Where to download?
 Check the [recent releases](https://github.com/Dawgra/Facial-Unification/releases)!
 All you have to do is insert this as a Roblox model.
-![Right Click in the Explorer > Insert > Insert Roblox Model](https://i.imgur.com/BHQFt4O.png)
+![Right Click in the Explorer > Insert > Import Roblox Model](https://i.imgur.com/BHQFt4O.png)
 
 # Guide?
 * **Main.luau** - The main part of the Facial Unification module. You can name it as you like.
